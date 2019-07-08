@@ -1,0 +1,8 @@
+﻿<UserControl x:Class="UNO_Demo.Pages.newsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="700" Width="895">
+    <Grid Background="LightBlue">
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="view1"/>
+    </Grid>
+    </UserControl>
